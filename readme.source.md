@@ -186,3 +186,5 @@ Finance undergrad at Oxford Brookes, on the IB track — with a builder's habit.
 *"I build the tools I wish existed."*
 
 [![GitHub Stats](https://ghstats.dev/api/card?username=kayasolomon&theme=dark&bg=0a0a0a&text=e8e8e8&title_color=ffffff&icon_color=8a8a8a&border_color=2a2a2a&hide=trend%2Cavg%2Cactive_day%2Cgrade%2Ccontributions%2Crepos%2Cfollowers&custom_title=Stats&border_radius=10)](https://github.com/kayasolomon)
+
+<sub><em>Profile design adapted from [ilyamiro](https://github.com/ilyamiro) — his work is excellent, go have a look.</em></sub>
